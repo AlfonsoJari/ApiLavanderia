@@ -1,0 +1,14 @@
+io\swagger\Swagger2SpringBoot.class
+io\swagger\api\ApiOriginFilter.class
+io\swagger\Swagger2SpringBoot$ExitException.class
+io\swagger\configuration\HomeController.class
+io\swagger\model\PedidoVenta.class
+io\swagger\model\VentasRegistro.class
+io\swagger\api\ApiResponseMessage.class
+io\swagger\configuration\SwaggerUiConfiguration.class
+io\swagger\api\NotFoundException.class
+io\swagger\api\VentasApiController.class
+io\swagger\RFC3339DateFormat.class
+io\swagger\api\ApiException.class
+io\swagger\api\VentasApi.class
+io\swagger\configuration\SwaggerDocumentationConfig.class
